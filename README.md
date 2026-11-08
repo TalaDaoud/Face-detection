@@ -32,7 +32,7 @@ from real human photographs.
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/TalaDaoud/portfolio.git
+git clone git@github.com:TalaDaoud/Face-detection.git
 cd Face-detection
 pip install -r requirements.txt
 python main.py
